@@ -1,0 +1,20 @@
+﻿EmploymentCenter
+
+
+winexe
+C#
+.cs
+D:\Курсовая работа\Паламарчук\EmploymentCenter\obj\Debug\
+EmploymentCenter
+none
+false
+DEBUG;TRACE
+D:\Курсовая работа\Паламарчук\EmploymentCenter\App.xaml
+13356812213
+2739969757
+36-77663772
+23-1494793705
+Pages\LoginPage.xaml;Pages\MyResponsePage.xaml;Pages\MyVacancyPage.xaml;Pages\NewVacancyPage.xaml;Pages\PersonalDataPage.xaml;Pages\RegUserPage.xaml;Pages\ResponseWorkersPage.xaml;Pages\SelectedVacancyPage.xaml;Pages\VacancyAddEditPage.xaml;Pages\VacancyList.xaml;Windows\AppWin.xaml;Windows\LoginWin.xaml;Windows\ResumeWin.xaml;
+
+True
+
